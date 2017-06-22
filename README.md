@@ -1,6 +1,2 @@
 # intake
 intake time checker
-
----------------------
-
-        
